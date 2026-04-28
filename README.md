@@ -1,2 +1,1 @@
-# inteligencia_precios
-Este proyecto es una iniciativa de análisis de datos y modelado predictivo diseñada para entender, cuantificar y anticipar el comportamiento de los precios de la gasolina y el diésel (basado en datos históricos del SICOM)
+Inteligencia de Precios (Dynamic Pricing): ¿Qué relación existe entre los márgenes de descuento (initial_price vs final_price) y la disponibilidad del producto (in_stock)? La problemática radica en descubrir qué categorías soportan mayores descuentos para atraer clientes sin agotar el inventario rápidamente.
