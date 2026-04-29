@@ -7,7 +7,7 @@ DB_NAME = "analitica_de_precios"
 COLLECTION_NAME = "products_catalogo"
 
 # Nombre del archivo CSV que subiste
-CSV_FILE_PATH = "../dataset/shein-products.csv"
+CSV_FILE_PATH = "dataset/shein-products.csv"
 
 
 def extract_and_clean_data(file_path):
